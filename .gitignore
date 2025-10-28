@@ -15,11 +15,6 @@ __pycache__/
 .vscode/
 .idea/
 
-# Fichiers de données
-*.csv
-*.data
-/data/
-
 
 *.env
 secrets.toml
