@@ -1,0 +1,25 @@
+# Environnements virtuels
+venv/
+.venv/
+env/
+.env
+
+# Fichiers cache de Python
+__pycache__/
+*.pyc
+
+# Fichiers cache de Jupyter
+.ipynb_checkpoints/
+
+# Fichiers de configuration IDE
+.vscode/
+.idea/
+
+# Fichiers de données
+*.csv
+*.data
+/data/
+
+
+*.env
+secrets.toml
