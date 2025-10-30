@@ -1,8 +1,3 @@
-# loan-default-prediction
-un modèle de classification qui prédit si un client est susceptible de faire défaut (ne pas rembourser) sur un prêt.
-# python version
-Python 3.12.7
-
 
 # German Credit Risk Prediction Project
 
@@ -92,7 +87,7 @@ This model achieved the **lowest number of False Negatives (22)**, successfully 
 ---
 
 ## Technologies Used
-* Python
+* Python (3.12.7)
 * Pandas (for data manipulation)
 * Scikit-learn (for modeling, scaling, and metrics)
 * Imbalanced-learn (for SMOTE)
