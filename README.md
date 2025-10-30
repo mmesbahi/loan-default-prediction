@@ -32,9 +32,7 @@ This project uses the "German Credit Data" dataset, which contains 1,000 entries
 * `Duration`
 * `Purpose`
 
-The target variable is `Risk`, which was encoded to `1` (Bad Risk) and `0` (Good Risk).
-
-**[Optional: Add the link to the dataset you used from Kaggle or UCI here]**
+The target variable is `Risk`, which was encoded to `bad` (Bad Risk) and `good` (Good Risk).
 
 ---
 
