@@ -15,7 +15,7 @@
 
 The objective of this end-to-end data science project is to build and evaluate several machine learning models to predict credit default risk using the German Credit Data dataset.
 
-The primary business goal is **not** to maximize overall accuracy, but to **minimize False Negatives (FN)**. A False Negative—classifying a high-risk client as "Good"—is the most costly error for a bank. This project analyzes the trade-offs required to build a model that is both effective and aligned with this business priority.
+The primary business goal is **not** to maximize overall accuracy, but to **minimize False Negatives (FN)**. A False Negative[classifying a high-risk client as "Good"] is the most costly error for a bank. This project analyzes the trade-offs required to build a model that is both effective and aligned with this business priority.
 
 ---
 
@@ -32,7 +32,7 @@ This project uses the "German Credit Data" dataset, which contains 1,000 entries
 * `Duration`
 * `Purpose`
 
-The target variable is `Risk`, which was encoded to `bad` (Bad Risk) and `good` (Good Risk).
+The target variable is `Risk`, which was encoded to `bad` (Bad Risk) and `good` (Good Risk) which was coverted into '1' for a bad risk and '0' for a good risk.
 
 ---
 
